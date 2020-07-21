@@ -1,3 +1,4 @@
 function writeCards(x,y){
-  for(let i=0; i<)
+  const counter=0;
+  for(let i=0; i<x.length;i++)
 }
