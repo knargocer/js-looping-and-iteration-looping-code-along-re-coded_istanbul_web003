@@ -3,7 +3,7 @@ function writeCards(x,y){
   const message=[];
   for(let i=0; i<x.length;i++){
     counter++;
-    message.push("Thank you, " + x[i]+", for the wonderful birthday gift!");
+    message.push("Thank you, " + x[i]+", for the wonderful surprise gift!");
   }
   return message;
 }
