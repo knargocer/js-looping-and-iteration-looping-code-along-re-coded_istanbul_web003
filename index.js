@@ -5,4 +5,5 @@ function writeCards(x,y){
     counter++;
     message.push("Thank you, " + x[i]+", for the wonderful birthday gift!");
   }
+  return message;
 }
