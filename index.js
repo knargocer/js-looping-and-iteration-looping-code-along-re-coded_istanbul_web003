@@ -7,3 +7,7 @@ function writeCards(x,y){
   }
   return message;
 }
+
+function countdown(x){
+  
+}
