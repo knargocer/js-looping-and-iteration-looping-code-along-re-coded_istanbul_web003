@@ -8,7 +8,7 @@ function writeCards(name, evtname){
   return message;
 }
 
-function countdown(int){
+function countDown(int){
   while(int>=0){
     console.log(int);
     int--;
