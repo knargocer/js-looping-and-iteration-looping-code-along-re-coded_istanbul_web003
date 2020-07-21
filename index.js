@@ -7,3 +7,6 @@ function wrapGift(gift) {
   # JavaScript uses ` like Ruby uses ".
   console.log(`Wrapped ${gift} and added a bow!`);
 }
+wrapGift(gifts[0]);
+wrapGift(gifts[1]);
+wrapGift(gifts[2]);
