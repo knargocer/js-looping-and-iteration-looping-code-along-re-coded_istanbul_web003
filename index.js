@@ -1,4 +1,4 @@
-function writeCards(x,y){
+function writeCards(name, evtname){
   let counter=0;
   const message=[];
   for(let i=0; i<x.length;i++){
